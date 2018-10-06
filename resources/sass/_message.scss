@@ -1,0 +1,25 @@
+
+.messages{
+    padding: 10px 25px;
+}
+
+.msg-box{
+  height: 50em;
+}
+
+.msg-input-box {
+  position: absolute;
+  bottom: 0px;
+  width: 90%;
+}
+
+.msg-members{
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+
+#chat-window{
+  overflow:auto; 
+  height: 550px;
+}
